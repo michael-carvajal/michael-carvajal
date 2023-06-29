@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Carvajal</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-carvajal" alt="michael-carvajal" /></a> </p>
 
 - 🔭 I’m currently working on [Jamify](https://jamify-dhs9.onrender.com)
 
@@ -27,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-carvajal&show_icons=true&locale=en" alt="michael-carvajal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-carvajal&" alt="michael-carvajal" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-carvajal" alt="michael-carvajal" /></a> </p>
