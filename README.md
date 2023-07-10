@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Carvajal</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">A web developer from New York</h3>
 
 
 - 🔭 I’m currently working on [Jamify](https://jamify-dhs9.onrender.com)
