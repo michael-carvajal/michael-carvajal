@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Jamify](https://jamify-dhs9.onrender.com)
 
-- 🌱 I’m currently learning **React/Express/Flask**
+- 🌱 I’m currently learning **Typescript/Tailwind/MongoDB/React Native**
 
 - 📫 How to reach me **michaelcarvajal.work@gmail.com**
 
