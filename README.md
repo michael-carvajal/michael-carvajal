@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Jamify](https://jamify-dhs9.onrender.com)
 
-- 🌱 I’m currently learning **Typescript/Tailwind/MongoDB/React Native**
+- 🌱 I’m currently learning **Typescript/Tailwind/MongoDB/Flutter**
 
 - 📫 How to reach me **michaelcarvajal.work@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10pdG027RNMDqbvkx9Dc-njXInZ_ITLRPUk_EvkSH-sA/edit?usp=sharing](https://docs.google.com/document/d/10pdG027RNMDqbvkx9Dc-njXInZ_ITLRPUk_EvkSH-sA/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1uIFmWr3stjr-sHSk5pP0s5WmZUv4tKYCAgS3FCaT3Zs/edit)
 
 - 🎸 Fun fact **I love playing all kinds of music**
 
@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-carvajal&" alt="michael-carvajal" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-carvajal" alt="michael-carvajal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-carvajal&&row=2&column=3" alt="michael-carvajal" /></a> </p>
