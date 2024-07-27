@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michael Carvajal</h1>
-<h3 align="center">A web developer from New York</h3>
+<h3 align="center">A Software Engineer from New York</h3>
 
 
-- 🔭 I’m currently working on [Jamify](https://jamify-dhs9.onrender.com)
+- 🔭 I’m currently working on outsourcing tool for employees at **Mavis Tire**
 
-- 🌱 I’m currently learning **Typescript/Tailwind/MongoDB/Flutter**
+- 🌱 I’m currently learning **Typescript/.NET/Azure/C#**
 
 - 📫 How to reach me **michaelcarvajal.work@gmail.com**
 
