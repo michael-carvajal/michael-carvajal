@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **michaelcarvajal.work@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1uIFmWr3stjr-sHSk5pP0s5WmZUv4tKYCAgS3FCaT3Zs/edit)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/18YDEWBPLhLOG88JhvxLgqbIZ9LyvKoiL1zi-MAQawjM/edit?usp=sharing)
 
-- 🎸 Fun fact **I love playing all kinds of music**
+- 🎸 Fun fact **Always ready for a Jam Sesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
